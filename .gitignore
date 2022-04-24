@@ -1,0 +1,8 @@
+Scraping_assignments/Twitter-Data-Extraction/twitter_credentials.json
+Scraping_assignments/Twitter-Data-Extraction/twitter_confidential_info_saver.py
+Miscellaneous/Flask_connect_to_cloud_db_example/db_credentials.json
+Scraping_assignments/Instagram-Data-Extractor/insta_cred.json
+*.json
+*.html
+*.png
+.DS_Store
